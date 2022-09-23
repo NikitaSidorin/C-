@@ -11,4 +11,3 @@ else
      int secondnum = (num  % 10 );
      Console.WriteLine(secondnum);
 }
-
